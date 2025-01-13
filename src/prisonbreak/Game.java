@@ -85,6 +85,7 @@ public abstract class Game extends JFrame {
         menuBar.add(menuFile);
         menuFile.add(menuFileExit);
         this.setJMenuBar(menuBar);
+        this.setResizable(false);
         this.setTitle("Prison Break");
         this.addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
