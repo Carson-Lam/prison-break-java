@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prison_Break:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prison_Break_jar</output-path>
+    <root id="archive" name="Prison_Break.jar">
+      <element id="module-output" name="Prison_Break" />
+    </root>
+  </artifact>
+</component>
